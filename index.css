@@ -5,3 +5,9 @@
     background-color: beige;
     border: solid medium navy;
 }
+
+#container > h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: darkgreen;
+}
