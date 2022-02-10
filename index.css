@@ -11,3 +11,8 @@
     text-align: center;
     color: darkgreen;
 }
+
+#container > h2 {
+    text-align: center;
+    color: blue;
+}
